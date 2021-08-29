@@ -1,0 +1,49 @@
+li {
+  list-style: none;
+}
+
+.profile {
+  display: block;
+  margin: 0 auto;
+  width: 500px;
+  padding-top: 40px;
+}
+
+.description {
+  display: flex;
+  justify-content: center;
+}
+
+.avatar {
+  width: 140px;
+  height: 100%;
+}
+
+.baseUserInfo {
+  text-align: start;
+  font-size: 20px;
+}
+
+.name {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.stats {
+  display: flex;
+  justify-content: space-around;
+  width: 500px;
+  margin: 0 auto;
+  padding: 0px;
+
+  font-size: 16px;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.statsSection {
+  /* margin: 0 auto; */
+  width: 1024px;
+}

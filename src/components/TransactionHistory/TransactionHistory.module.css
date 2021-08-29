@@ -1,0 +1,18 @@
+table {
+  margin: 20px auto;
+  /* table-layout: fixed; */
+  width: 500px;
+
+  border: 2px solid rgb(68, 68, 68);
+  border-radius: 5px;
+}
+
+thead {
+  background-color: rgb(170, 170, 170);
+}
+
+th,
+td {
+  padding: 10px;
+  border: 0.5px solid slategrey;
+}
